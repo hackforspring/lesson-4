@@ -1,3 +1,15 @@
+# 第4回 HackForSpring
+
+第4回ではマインスイーパーを2時間で開発する様子を実況解説しました。
+
+ここから実際に遊べます↓
+<https://lesson-4-minesweeper-nw2wvzeym.now.sh/>
+
+配信動画↓
+<https://www.twitch.tv/videos/564694744>
+
+## Next.js & Build
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
